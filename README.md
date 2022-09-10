@@ -1,7 +1,7 @@
 # 403/401-Bypass For Bug hunters:
 
 # Introduction
-403_401_bypass Tool is to bypass 403/401. This script contain all the possible techniques to do the same.
+403_401_bypass Tool is to bypass 403/401. This script contain all the possible techniques to do the 403/401 Bypass Cheat-Sheet.
 
 
 #> NOTE : 
